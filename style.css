@@ -13,10 +13,14 @@ header {
   text-align: center;
 }
 
-.hero {
-  padding: 60px;
-  text-align: center;
-  background: #eaeaea;
+.hero{
+padding:90px 20px;
+text-align:center;
+
+background:
+linear-gradient(rgba(255,255,255,0.85), rgba(248,250,252,0.9)),
+url('https://images.unsplash.com/photo-1581092334651-ddf26d9a09d0?auto=format&fit=crop&w=1600') center/cover no-repeat;
+
 }
 
 .btn {
